@@ -1,4 +1,4 @@
-# Stock-Market-Analysis
+# Stock-Market-Analysis (Tesla, Ford & GM)
 Stock market analysis using yahoo API featuring moving averages, correlation, daily % change and cumulative return.
 
 ![MA](https://user-images.githubusercontent.com/76944713/106589082-81cf6900-6543-11eb-9b9f-80ed3ebefdd3.png)
